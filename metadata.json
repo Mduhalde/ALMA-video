@@ -1,0 +1,5 @@
+{
+  "name": "VideoGen AI - Professional Video Generator",
+  "description": "An advanced application that leverages the Google Gemini API to generate professional, high-quality, viral-style educational videos from a user-provided topic and contextual files. The app creates a detailed script, visual specifications, and the final video output.",
+  "requestFramePermissions": []
+}
